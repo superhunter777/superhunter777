@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ithunter101
+- 👋 Hi
 
 ## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!  
 I am a 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧 & **_Blockchain developer_**. Over the last 10 years, I've taken a deep dive into website development.
